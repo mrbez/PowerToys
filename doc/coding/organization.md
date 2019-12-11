@@ -8,7 +8,7 @@
 
 ## Code Overview
 
-General project organization:
+General   project organization:
 
 #### The [`deps`](/deps) folder
 Contains other projects that PowerToys uses as dependencies.
